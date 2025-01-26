@@ -1,6 +1,6 @@
 <template>
 <div
-  class="border bg-white shadow-sm p-2 rounded-md flex items-center justify-center cursor-move"
+  class="border bg-white shadow-sm p-2 rounded-md flex items-center justify-center cursor-move text-black"
   @click="handleClick"
 >
   <slot />
